@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div> 
-    <p> Menu </p>
+<div class="Catégorie"> 
+    <h1> Catégorie: Idée de menu </h1>
 </div>
+
 @endsection
