@@ -6,7 +6,7 @@
 </div>
 
 <div class= "titre"> 
-    <h2>Voici ue menu que j'apprécie:</h2>  
+    <h2>Voici un menu que j'apprécie:</h2>  
     <br>
 </div>
 <hr>
