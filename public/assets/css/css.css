@@ -1,0 +1,42 @@
+#main {
+    color: #ff6f7d;
+    background-color: #d3d3d3;
+    font-size: larger;
+}
+
+.Catégorie {
+    margin: auto;
+    text-align: center;
+}
+
+.titre {
+    margin: auto;
+    text-align: center;
+}
+
+.video {
+    margin: auto;
+    text-align: center;
+}
+
+.recipe {
+    margin-left: 40%;
+}
+
+img {
+    margin-left: 20%;
+    margin-top: 4%;
+}
+
+.button {
+    margin: auto;
+    text-align: center;
+}
+hr {
+    height: 1px;
+    margin: -0.5em 0;
+    padding: 0;
+    color: #ff6f7d;
+    background-color: #ff6f7d;
+    border: 0;
+}
