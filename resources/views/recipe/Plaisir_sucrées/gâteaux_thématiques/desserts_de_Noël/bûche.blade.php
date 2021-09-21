@@ -8,7 +8,7 @@
 <div>
     <div class= "titre"> 
         <h2> Bûche de Noël au Praliné et Chocolat</h2>
-        <h3>origine : Allemagne</h3>   
+        <h3>origine : Europe</h3>   
         <br>
     </div>
     
@@ -48,24 +48,23 @@
         </div> 
         
         <div class="col-md-6"> 
-            <img src="{{asset('assets/img/Vin.jpg')}}">
+            <img src="{{asset('assets/img/Bûche.jpg')}}">
         </div>
     </div>
     
    
     
     <h3>L'histoire de la recette</h3>
-    <p> Le premier vin épicé fut le conditum paradoxum élaboré à l'époque de l'Empire romain vers 20 ap. J.- C.2. Sa composition en est 
-      donnée dans le Livre I.1. De Re Coquinaria d'Apicius. Du miel était mis à bouillir dans du vin, puis y étaient ajoutées des épices :
-       poivre, mastic, nard, laurier, safran, ainsi que des noyaux de dattes torréfiées et des dattes trempées préalablement dans du vin.
-        Il s'agit alors de masquer le goût oxydé du vin3. Le tout était 
-      ensuite dilué dans du vin de qualité afin que le mélange soit doux. Puis pour le conserver on y jetait ensuite des charbons ardents.
+    <p> La bûche de Noël est un gâteau terminant le repas de Noël en France, en Belgique, en Suisse, au Québec, au Nouveau-Brunswick, 
+      au Vietnam, au Liban, et généralement dans les pays francophones. Cette tradition culinaire reproduit un autre rite lié à la 
+      célébration du solstice d'hiver. 
+      Cette coutume est attestée depuis le Moyen Âge et est héritée de divers rites païens. Elle est répandue dans toute l'Europe.
       </p>
 
     <div class="video">
         <h3> Réalisation de la recette en vidéo: </h3>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/MSXHlVrPXZo" title="YouTube video player" frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2f8FMra7vt0" title="YouTube video player" frameborder="0"
+           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     </div>
 </div>
